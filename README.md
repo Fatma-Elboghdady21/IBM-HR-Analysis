@@ -12,12 +12,12 @@ The company lost **237 of 1,470 employees (16.12%)**. Every rate below is attrit
 ## Dashboard preview
 
 **Overview page**
+![Overview Analysis page of the Human Resources Analysis report](./Screenshot%202026-10-30%20230826.png)
 
-![Overview page of the Human Resources Analysis report](./Screenshot%202026-10-30%20230727.png)
 
 **Diagnostic Analysis page**
 
-![Diagnostic Analysis page of the Human Resources Analysis report](./Screenshot%2026-10-30%230826.png)
+![Diagnostic page of the Human Resources Analysis report](./Screenshot%202026-10-30%20230727.png)
 
 ---
 
